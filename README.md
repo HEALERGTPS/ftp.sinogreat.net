@@ -1,1 +1,1 @@
-# ftp.terramanza.fr
+# ftp.sinogreat.net
